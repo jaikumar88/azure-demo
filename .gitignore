@@ -1,0 +1,23 @@
+target
+.project
+.classpath
+.settings
+.metadata/
+.springBeans
+.factorypath
+.apt_generated
+*.gz
+*.log
+
+# intellij files
+*.iws
+*.iml
+*.ipr
+*.ids
+*/*.iws
+*/*.ipr
+.idea/
+.ideaDataSources/
+dataSources/
+/bin/
+m2
