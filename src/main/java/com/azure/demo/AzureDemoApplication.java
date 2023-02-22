@@ -11,7 +11,7 @@ public class AzureDemoApplication {
 
 	@GetMapping("/message")
 	public String demoMessage() {
-		return "Welcome to azure demo app";
+		return "Welcome to azure demo app. V2";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(AzureDemoApplication.class, args);
